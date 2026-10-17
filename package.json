@@ -1,0 +1,23 @@
+{
+  "name": "lovelace-theme",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.11.2",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "pnpm validate && pnpm format:check",
+    "validate": "pnpm validate:theme && pnpm validate:manifest",
+    "validate:theme": "node scripts/validate-theme.mjs",
+    "validate:manifest": "taplo lint extension.toml",
+    "format:check": "prettier --check . && taplo fmt --check extension.toml",
+    "format": "prettier --write . && taplo fmt extension.toml"
+  },
+  "devDependencies": {
+    "@taplo/cli": "0.7.0",
+    "ajv": "8.20.0",
+    "prettier": "3.9.10"
+  }
+}

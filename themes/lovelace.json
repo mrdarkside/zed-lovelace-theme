@@ -80,15 +80,7 @@
         "scrollbar.track.background": "#00000000",
         "search.match_background": "#76D0FB40",
         "terminal.dim_foreground": "#999999",
-        "accents": [
-          "#F18098",
-          "#60DDCD",
-          "#8999F1",
-          "#4db1a3",
-          "#61AFEF",
-          "#C678DD",
-          "#F0A276"
-        ],
+        "accents": ["#F18098", "#60DDCD", "#8999F1", "#4db1a3", "#61AFEF", "#C678DD", "#F0A276"],
         "terminal.ansi.black": "#21222C",
         "terminal.ansi.bright_black": "#535BCF",
         "terminal.ansi.dim_black": "#20212B",
