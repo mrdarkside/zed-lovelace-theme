@@ -4,6 +4,10 @@ A dark theme for Zed, based on [Dan Sarich’s Lovelace theme for VS Code](https
 
 The port keeps Lovelace’s blue-gray backgrounds, pastel syntax palette, italic comments, editor selections, and terminal colors. Its project panel uses bright file names and familiar Git status colors.
 
+![Lovelace in Zed, showing TypeScript and JSX syntax, bright selected file names, and Git status colors](screenshots/lovelace.png)
+
+The preview uses Material Icon Theme, which is installed separately.
+
 ## Install locally
 
 1. Clone or download this repository.
