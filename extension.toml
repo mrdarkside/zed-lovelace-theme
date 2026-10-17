@@ -2,6 +2,6 @@ id = "lovelace-theme"
 name = "Lovelace"
 version = "0.1.0"
 schema_version = 1
-authors = ["Tom"]
+authors = ["mrdarkside"]
 description = "A port of Dan Sarich's Lovelace theme, adapted for Zed."
 repository = "https://github.com/mrdarkside/zed-lovelace-theme"

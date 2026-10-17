@@ -68,7 +68,7 @@ These checks do not replace Zed’s extension packaging checks or manual visual 
 ## Credits and license
 
 - Original Lovelace theme and palette: **Dan Sarich**.
-- Zed port and UI adaptations: **Tom**.
+- Zed port and UI adaptations: **[mrdarkside](https://github.com/mrdarkside)**.
 
 Distributed under the [MIT license](LICENSE), with the original copyright and permission notice preserved.
 
