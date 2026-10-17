@@ -6,7 +6,7 @@ The port keeps Lovelace’s blue-gray backgrounds, pastel syntax palette, italic
 
 ![Lovelace in Zed, showing TypeScript and JSX syntax, bright selected file names, and Git status colors](screenshots/lovelace.png)
 
-The preview uses Material Icon Theme, which is installed separately.
+The preview uses **Colored Zed Icons Theme Dark**. Icon themes are configured separately from this color theme.
 
 ## Install locally
 
@@ -42,7 +42,7 @@ If you already have a local theme named Lovelace, back it up and move it out of 
 
 ## Scope and differences
 
-This extension contains only a color theme. It does not change fonts, font sizes, keybindings, AI providers, or other personal settings. File icons are separate; Material Icon Theme can be installed independently.
+This extension contains only a color theme. It does not change fonts, font sizes, keybindings, AI providers, or other personal settings. File icons use your selected icon theme.
 
 The syntax colors are adapted to Zed’s highlighting categories. Some language-specific token assignments differ from VS Code.
 
