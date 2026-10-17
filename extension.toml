@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Tom"]
 description = "A port of Dan Sarich's Lovelace theme, adapted for Zed."
-repository = "https://github.com/mrdarkside/lovelace-theme"
+repository = "https://github.com/mrdarkside/zed-lovelace-theme"

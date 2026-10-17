@@ -74,7 +74,7 @@ Distributed under the [MIT license](LICENSE), with the original copyright and pe
 
 ## Publishing
 
-The extension ID is `lovelace-theme`, and its initial version is `0.1.0`. The source repository is [mrdarkside/lovelace-theme](https://github.com/mrdarkside/lovelace-theme).
+The extension ID is `lovelace-theme`, and its initial version is `0.1.0`. The source repository is [mrdarkside/zed-lovelace-theme](https://github.com/mrdarkside/zed-lovelace-theme).
 
 Before submitting it to the Zed registry:
 
